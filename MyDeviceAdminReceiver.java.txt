@@ -1,0 +1,9 @@
+MyDeviceAdminReceiver.java
+
+package com.example.killswitch;
+
+import android.app.admin.DeviceAdminReceiver;
+
+public class MyDeviceAdminReceiver extends DeviceAdminReceiver {
+    // You can override admin callbacks if needed
+}

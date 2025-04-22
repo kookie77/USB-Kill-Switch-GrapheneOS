@@ -1,0 +1,13 @@
+Project Structure Overview
+
+KillSwitchApp/
+├── app/
+│   ├── java/com/example/killswitch/
+│   │   ├── MainActivity.java
+│   │   └── MyDeviceAdminReceiver.java
+│   ├── res/
+│   │   ├── layout/
+│   │   │   └── activity_main.xml
+│   │   └── xml/
+│   │       └── device_admin_receiver.xml
+│   └── AndroidManifest.xml
